@@ -5,7 +5,7 @@ from imgurpython import ImgurClient
 TOKEN = 'TOKEN CODE GOES HERE'
 bot = commands.Bot(command_prefix = '!')
 
-client_id = 'CLIENT IT GOES HERE'
+client_id = 'CLIENT ID GOES HERE'
 client_secret = 'CLIENT SECRET GOES HERE'
 client = ImgurClient(client_id, client_secret)
 
