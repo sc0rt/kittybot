@@ -2,7 +2,7 @@
 Discord bot that posts cute pictures of animals.
 
 
-#Commands:
+# Commands:
 
 !aww (posts imgur link from r/aww)
 
